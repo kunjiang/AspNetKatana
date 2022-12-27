@@ -2,7 +2,7 @@
 	<PropertyGroup>
 		<OutputType>Library</OutputType>
 		<RootNamespace>Functional.Tests</RootNamespace>
-		<TargetFramework>net4.5.2</TargetFramework>
+		<TargetFramework>$(DefaultNetFxTargetFramework)</TargetFramework>
 		<SignAssembly>false</SignAssembly>
 	</PropertyGroup>
 	<ItemGroup>
